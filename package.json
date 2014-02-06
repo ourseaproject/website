@@ -1,0 +1,25 @@
+{
+  "name": "ourseaproject",
+  "version": "0.0.0",
+  "description": "website fot OurSea Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ourseaproject/website.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ourseaproject/website/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-coffee": "~0.9.0",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-contrib-concat": "~0.3.0"
+  }
+}
