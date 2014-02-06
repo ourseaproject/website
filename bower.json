@@ -1,0 +1,20 @@
+{
+  "name": "ourseaproject",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ourseaproject/website",
+  "authors": [
+    "hitoyam <hitoyam@gmail.com>"
+  ],
+  "description": "website fot OurSea Project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.0",
+    "jquery": "~2.1.0"
+  }
+}
